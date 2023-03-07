@@ -1,4 +1,1 @@
-- You must have EduPython (version <3.0) installed on your computer.
-Download link : https://edupython.tuxfamily.org/
-- Execute EduPython (once installed), and open the Platformer.py
-- Execute the script by clicking on the green arrow at the top and enjoy ! Some of the text is in French but the essential is in English eitherway you should understand it quite easily.
+- You must have python (Python 3.X on microsoft store) installed on your computer, and the Pygame library (python3 -m pip install -U pygame --user), run the EXE and you should be good to go !
