@@ -1,1 +1,1 @@
-- You must have python (Python 3.X on microsoft store) installed on your computer, and the Pygame library (python3 -m pip install -U pygame --user), run the EXE and you should be good to go !
+- You must have python (Python 3.X on microsoft store for Windows and other ways for other OSs) installed on your computer, and the Pygame library (python3 -m pip install -U pygame --user), run the EXE and you should be good to go !
