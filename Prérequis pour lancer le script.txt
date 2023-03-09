@@ -1,1 +1,0 @@
-Il vous suffit juste d'avoir python d'installé sur votre ordinateur, ainsi que la librairie Pygame, pour cela allez sur le microsoft store et installez Python 3.X et pour Pygame : python3 -m pip install -U pygame --user
