@@ -1,1 +1,23 @@
+1 sand 1
+2 sand 2
+3 sand 3
 
+4 rock 1
+5 rock 2
+6 rock 3
+
+7 ice 1
+8 ice 2
+9 ice 3
+
+0 void
+a: invisible tile
+c: chest
+p: first code
+q: second code
+r: third code
+s: fourth code
+t: fifth code
+
+Max length :9
+Max height :7
