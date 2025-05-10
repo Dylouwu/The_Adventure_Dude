@@ -1,0 +1,23 @@
+1 sable 1
+2 sable 2
+3 sable 3
+
+4 roche 1
+5 roche 2
+6 roche 3
+
+7 glace 1
+8 glace 2
+9 glace 3
+
+0 vide
+a:bloc invisible
+c: coffre
+p: premier code
+q: deuxième code
+r: troisième code
+s: quatrième code
+t: cinquième code
+
+Max longueur:9
+Max hauteur:7
